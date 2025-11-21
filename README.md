@@ -10,13 +10,22 @@
 
 ---
 
+## 🚀 Tecnologias Utilizadas
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</div>
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## ✨ Funcionalidades
+
+- **Iniciar/Pausar:** Controle o cronômetro com um único botão.
+- **Reiniciar:** Zere o cronômetro a qualquer momento.
+
+---
 
 ## Visualizar o Projeto
 
