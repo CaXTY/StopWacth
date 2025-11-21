@@ -30,3 +30,8 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 ## Visualizar o Projeto
 
 Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://caxty.github.io/StopWacth/)
+
+---
+
+# Autor
+| Carlos Eduardo <br> https://github.com/CaXTY
